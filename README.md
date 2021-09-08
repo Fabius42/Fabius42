@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Fabius42
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🙌 Hi, I'm Fabian!
 
-<!---
-Fabius42/Fabius42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+❤️‍🔥 I'm passionate about web development, textual machine learning, generative art, and generally solving problems with code. Read more about those things [on my coding blog](https://www.fabiandietrich.com/index.html).
+
+👽 My current hobby project / obsession is a Python-based game that simulates alien evolution in a procedurally generated universe.
+
+🏠👉👨‍💻 I used to be an architect (yes, the house-planning version), and I recently started a new career in software development.
+
+🧠 I'm always happy to start a conversation, get to know you, and share ideas!
+
+📫 You can reach me via fd (at) fabiandietrich (dot) com
